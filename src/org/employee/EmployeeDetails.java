@@ -15,9 +15,16 @@ public class EmployeeDetails {
 		System.out.println("Employee Mobile : 8939278836");
 	}
 	
+	private void empDetail() {
+		System.out.println("Employee : Siva");
+	}
 	private void empAdd() {
 		System.out.println("OMR-Chennai");
 	}
+//<<<<<<< HEAD
+//=======
+//>>>>>>> 6a4ffc45dd5a5c90b704c6523dd493679249b846
+	
 	//               main method
 	public static void main(String[] args) {
 		
